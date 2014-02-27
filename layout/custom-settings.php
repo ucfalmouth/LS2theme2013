@@ -1,0 +1,1 @@
+<?php $awardhome = "http://google.com"; ?>

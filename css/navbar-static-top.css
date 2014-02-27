@@ -1,0 +1,12 @@
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+#award-list li{
+	list-style: none;
+	padding-left: 0;
+}
+
+.clear-form{
+	cursor: pointer
+}
